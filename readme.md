@@ -1,6 +1,7 @@
 # Introducing CrynoxAI
 
 **What is CrynoxAI?**
+
 ** - Crynox is an AI powered Education system ** 
 
 ```
