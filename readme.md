@@ -2,7 +2,7 @@
 
 **What is CrynoxAI?**
 
-** - Crynox is an AI powered Education system ** 
+- Crynox is an AI powered Education system 
 
 ```
 function features() {
